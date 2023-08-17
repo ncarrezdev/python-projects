@@ -1,0 +1,22 @@
+# Variable/Attribute
+var : var_type = var_default #var description
+
+# Function/Method
+def foo(params:params_type, *args, **kwargs) -> return_type :
+  '''Function description'''
+  #---Innerfunctions
+  def i_foo():return 0
+  #---Variables
+  x = 0
+  #---Code
+  return None
+
+# Class
+class Class(Inheritance):
+  '''Class/Object description'''
+  #---Attributes
+  class_attribute = None
+  __slots__= ['object_attribute',] 
+  #---Methods
+  def public_method(self):pass
+  def __private_method__(self):pass
