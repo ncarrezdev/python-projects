@@ -58,3 +58,4 @@ class File():
 
     def _to_bytes(self, buffer: bytes, **kwargs) -> bytes:
         return buffer
+        

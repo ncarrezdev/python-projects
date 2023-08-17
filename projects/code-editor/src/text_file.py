@@ -12,3 +12,4 @@ class TextFile(file.File):
 
     def _to_bytes(self, buffer: str, encoding: str = None, **kwargs) -> bytes:
         return buffer.encode(encoding or self.encoding)
+        
