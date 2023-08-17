@@ -1,0 +1,12 @@
+# Python
+#########
+venv
+
+# Git
+######
+
+# Replit
+#########
+.config
+.replit
+replit.nix
