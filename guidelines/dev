@@ -1,0 +1,22 @@
+# Step 0 - Branch
+Create a branch for your feature.
+
+# Step 1 - Tests
+Write test to show how your feature should be used.
+
+# Step 2 - Code
+Add your feature in the tree.
+
+# Step 3 - Doc
+Write the doc for your feature.
+
+# Step 4 - Re-Tests
+Test your feature to check if it work fine with the Step 1.
+If your tests fail and need changes go back to Step 1.
+If everything is fine go to Step 5.
+
+# Step 5 - Pull Request
+Create a pull request so that the owner knows your feature is ready.
+
+# Step 6 - Merge
+If your feature is tested and approved, it can be merged.
